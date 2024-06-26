@@ -1,4 +1,4 @@
-#!/bin/bash
+global_alignment_scripts/#!/bin/bash
 #SBATCH --job-name=build_bowtie2_index
 #SBATCH --output=build_bowtie2_index_%j.log
 #SBATCH --ntasks=1
