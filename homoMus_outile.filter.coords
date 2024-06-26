@@ -1,5 +1,0 @@
-/shared/ifbstor1/projects/pten_enh_phylo/project_pten_nazim/synteny/scripts/NGenomeSyn_scripts/homoMus_outile.A.fa /shared/ifbstor1/projects/pten_enh_phylo/project_pten_nazim/synteny/scripts/NGenomeSyn_scripts/homoMus_outile.B.fa
-NUCMER
-
-    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  |  [COV R]  [COV Q]  | [TAGS]
-==========================================================================================================
